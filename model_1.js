@@ -16,3 +16,11 @@ var isImportant = true;
 var attendees = ['Jack', 'Steph', 'James', 'Dina'];
 var bestFriends = ['Sue', 'Meg','Mark'];
 var cities = ['Boston', 'New York', 'Dallas'];
+
+
+var myDog = {
+  name = 'Droopy',
+  age = 12,
+  isBrown = true,
+  favoriteThings = ['toy chicken', 'belly rubs', 'other dogs'],
+}
